@@ -35,7 +35,7 @@ except ImportError:
     import ConfigParser as configparser
 
 
-mirror_root = "mirrors.tuna.tsinghua.edu.cn"
+mirror_root = "linux.xidian.edu.cn/mirrors"
 host_name = "tuna.tsinghua.edu.cn"
 always_yes = False
 verbose = False
@@ -223,8 +223,8 @@ class Base(object):
 
 
 class Pypi(Base):
-    mirror_url = 'https://pypi.%s/simple' % host_name
-
+    #mirror_url = 'https://pypi.%s/simple' % host_name
+    mirror_url = 'https://linux.xidian.edu.cn/mirrors/pypi/web/simple/'
     """
     Reference: https://pip.pypa.io/en/stable/user_guide/#configuration
     """
