@@ -1,25 +1,25 @@
-oh-my-tuna
+oh-my-xdlinux
 ==========================
 
-`oh-my-tuna` is a script for automating using TUNA mirrors when applicable.
+`oh-my-xdlinux` is a script for automating using XDLINUX mirrors when applicable.
 
 Usage
 ==========================
 
 The simple way:
 ```bash
-wget https://rawgit.com/tuna/oh-my-tuna/master/oh-my-tuna.py
-python oh-my-tuna.py
+wget https://rawgit.com/xdlinux/oh-my-xdlinux/master/oh-my-xdlinux.py
+python oh-my-xdlinux.py
 ```
 
 Change system-wide settings instead of user-wide:
 ```bash
-sudo oh-my-tuna.py --global
+sudo oh-my-xdlinux.py --global
 ```
 
 Get help:
 ```bash
-python oh-my-tuna.py -h
+python oh-my-xdlinux.py -h
 ```
 
 Coverage
