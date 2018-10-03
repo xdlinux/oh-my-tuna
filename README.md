@@ -8,7 +8,7 @@ Usage
 
 The simple way:
 ```bash
-wget https://rawgit.com/xdlinux/oh-my-xdlinux/master/oh-my-xdlinux.py
+wget https://raw.githubusercontent.com/xdlinux/oh-my-xdlinux/xdlinux/oh-my-xdlinux.py
 python oh-my-xdlinux.py
 ```
 
