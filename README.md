@@ -14,7 +14,7 @@ python oh-my-xdlinux.py
 
 Change system-wide settings instead of user-wide:
 ```bash
-sudo oh-my-xdlinux.py --global
+sudo python oh-my-xdlinux.py --global
 ```
 
 Get help:
